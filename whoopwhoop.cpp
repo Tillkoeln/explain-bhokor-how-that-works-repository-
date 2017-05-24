@@ -1,4 +1,5 @@
 bla bla bla bla bla 
+if someone else read that text and know it better or 
 if something isnt correct, feel free to post the correct explain / example
 bla bla bla bla
 bla bla bla
@@ -6,6 +7,7 @@ bla bla
 bla 
 
 Hello Bhokor ^^ 
+you asked ... 
 
 
 static int64_t GetStakeCombineThreshold() { return 100 * COIN; }     
